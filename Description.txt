@@ -1,0 +1,22 @@
+Project: ShopWorld
+
+ShopWorld is a modern e-commerce platform designed to sell a wide variety of products 
+across multiple categories. The project includes both the backend and frontend, 
+developed using Laravel for the backend and Vue 3 for the frontend, ensuring a 
+seamless and efficient user experience.
+
+Backend (Laravel):
+
+The backend is built with Laravel, a powerful PHP framework known for its scalability 
+and robust features. It handles all the core functionalities of the platform, including 
+user authentication, product management, order processing, and payment integration. 
+The system is designed to handle a large volume of transactions, providing a secure 
+and reliable environment for both users and administrators.
+
+Frontend (Vue 3):
+
+The frontend is developed using Vue 3, a progressive JavaScript framework that enables 
+dynamic and responsive user interfaces. The platform features an intuitive, mobile-friendly 
+design that allows customers to browse and purchase items easily. With Vue 3’s reactivity 
+and component-based architecture, the user experience is smooth and interactive, from 
+browsing products to completing checkout.
